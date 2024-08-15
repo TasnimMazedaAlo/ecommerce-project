@@ -67,7 +67,7 @@ const Todays = () => {
 
 
             <div className='flex justify-center'>
-                <div className='grid lg:grid-cols-4 grid-cols-2 gap-4 my-10'>
+                <div className='grid lg:grid-cols-4 grid-cols-2 gap-4 my-10 md:ml-0 ml-5'>
                   <div>
                   <div className='bg-slate-100 py-4 px-3 rounded  md:w-[270px] md:h-[240px] w-[150px] h-[170px]'>
                    <div className='flex justify-between'>
